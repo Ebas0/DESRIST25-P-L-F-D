@@ -50,3 +50,6 @@ If you use these materials, please cite our paper:
 ## 📬 Contact
 
 For questions or feedback, please contact Sebastian Reiners via https://www.linkedin.com/in/sebastian-reiners/ 
+
+## Acknowledgments
+This work was funded by the European Union [EU Funding Erasmus+ 2022-2-LI01-KA220-HED-000098911: “Design Science Research Academy”].
