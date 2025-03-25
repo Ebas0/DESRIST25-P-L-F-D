@@ -22,12 +22,12 @@ This repository includes:
 ```
 .
 ├── videos/
-│   ├── demo1.mp4
-│   ├── demo2.mp4
+│   ├── video1.mp4
+│   ├── video2.mp4
 │   └── ...
 ├── transcripts/
-│   ├── demo1_transcript.txt
-│   ├── demo2_transcript.txt
+│   ├── transcript1.pdf
+│   ├── transcript2.pdf
 │   └── ...
 └── README.md
 ```
@@ -37,13 +37,13 @@ This repository includes:
 If you use these materials, please cite our paper:
 
 ```
-@inproceedings{yourcitation2025,
-  title     = {Your Paper Title},
-  author    = {Author1 and Author2 and Author3},
-  booktitle = {Proceedings of the DESRIST Conference},
+@inproceedings{tba,
+  title     = {Past Lessons, Future Directions: An Author-Informed Review of Design Science Research in Information Systems},
+  author    = {Sebastian Reiners and Gregor Kipping and Fabian Tingelhoff and Michael Gau},
+  booktitle = {Proceedings of the 20th International Conference on Design Science Research in Information Systems and Technology},
   year      = {2025},
   publisher = {Springer},
-  doi       = {Insert DOI here}
+  doi       = {tba}
 }
 ```
 
