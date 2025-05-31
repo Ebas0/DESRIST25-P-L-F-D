@@ -4,27 +4,28 @@ Welcome! This repository contains supplementary materials for our paper presente
 
 ## 📄 Paper Information
 
-**Title:** *Past Lessons, Future Directions: An Author-Informed Review of Design Science Research in Information Systems*  
+**Title:** *Past Lessons, Future Directions: An Author-Informed Review of Design Science Research in Information Systems*
+
 **Authors:** Sebastian Reiners, Gregor Kipping, Fabian Tingelhoff, Michael Gau 
+
 **Conference:** The 20th International Conference on Design Science Research in Information Systems and Technology
+
 **Year:** 2025
 
 ## 🎥 Contents
 
 This repository includes:
 
-- **Videos/** – Videos of interviews
 - **Transcripts/** – Written transcripts corresponding to each video
+- **citation.bib** - Bibtex for citation
 - **README.md** – This file, providing an overview of the repository structure and content.
+
+**Videos** – Videos of interviews can be found at https://dsr-academy.org/node/14
 
 ## 📁 Repository Structure
 
 ```
 .
-├── videos/
-│   ├── video1.mp4
-│   ├── video2.mp4
-│   └── ...
 ├── transcripts/
 │   ├── transcript1.pdf
 │   ├── transcript2.pdf
@@ -37,15 +38,11 @@ This repository includes:
 If you use these materials, please cite our paper:
 
 ```
-@inproceedings{tba,
-  title     = {Past Lessons, Future Directions: An Author-Informed Review of Design Science Research in Information Systems},
-  author    = {Sebastian Reiners and Gregor Kipping and Fabian Tingelhoff and Michael Gau},
-  booktitle = {Proceedings of the 20th International Conference on Design Science Research in Information Systems and Technology},
-  year      = {2025},
-  publisher = {Springer},
-  doi       = {tba}
+r-Informed Review of Design Science Research in Information Systems. In: Chatterjee, S., vom Brocke, J., Anderson, R. (eds) Local Solutions for Global Challenges. DESRIST 2025. Lecture Notes in Computer Science, vol 15703. Springer, Cham. https://doi.org/10.1007/978-3-031-93976-1_7
 }
 ```
+
+https://link.springer.com/chapter/10.1007/978-3-031-93976-1_7#citeas
 
 ## 📬 Contact
 
