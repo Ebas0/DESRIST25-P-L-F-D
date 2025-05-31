@@ -38,8 +38,7 @@ This repository includes:
 If you use these materials, please cite our paper:
 
 ```
-r-Informed Review of Design Science Research in Information Systems. In: Chatterjee, S., vom Brocke, J., Anderson, R. (eds) Local Solutions for Global Challenges. DESRIST 2025. Lecture Notes in Computer Science, vol 15703. Springer, Cham. https://doi.org/10.1007/978-3-031-93976-1_7
-}
+Reiners, S., Kipping, G., Tingelhoff, F., Gau, M. (2025). Past Lessons, Future Directions: An Author-Informed Review of Design Science Research in Information Systems. In: Chatterjee, S., vom Brocke, J., Anderson, R. (eds) Local Solutions for Global Challenges. DESRIST 2025. Lecture Notes in Computer Science, vol 15703. Springer, Cham. https://doi.org/10.1007/978-3-031-93976-1_7
 ```
 
 https://link.springer.com/chapter/10.1007/978-3-031-93976-1_7#citeas
